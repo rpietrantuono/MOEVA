@@ -3,7 +3,7 @@
 
 This repository contains the material of the following work: 
 
-"Automated Hypotheses Generation via Evolutionary Abduction", submitted for review to the  The Tenth International Conference on Learning Representations, 2022.
+"An Evolutionary Strategy for Automatic Hypotheses Generation in Abductive Reasoning", submitted for review to IEEE Transactions on Evolutionary Computation. 
 
 ## Description
 The repository contains the artefacts required to run EVA, the algorithm for evolutionary abduction implemented to solve Combinatorial Causal Optimization Problem (CCOP), as well as to reproduce the results reported in the paper (on four benchmark datasets). The code exploits the jMetal framework (https://github.com/jMetal), a Java framework to develop and experiment evolutionary algorithms. 
