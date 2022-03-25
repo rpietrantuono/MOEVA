@@ -5,6 +5,8 @@ This repository contains the material of the following work:
 
 "An Evolutionary Strategy for Automatic Hypotheses Generation in Abductive Reasoning", submitted for publication. 
 
+The work defines an evolutioanry algorithm making use of operators that emulate the abductive human reasoning. The algorithm automatically advances hypotheses for potential causes for a given effect, hence allowing to find the most plausible (accoridng to a defined plausibility metric) explanations for a certain event. The application is on 4 case studies (in medial, decision-support system, and safety engineering domains). Results show that the algorithm can predict hypotheses that are equal or very simialr to really-occurred events. 
+
 ## Description
 The repository contains the artefacts required to run EVA, the algorithm for evolutionary abduction implemented to solve Combinatorial Causal Optimization Problem (CCOP), as well as to reproduce the results reported in the paper (on four benchmark datasets). The code exploits the jMetal framework (https://github.com/jMetal), a Java framework to develop and experiment evolutionary algorithms. 
 
