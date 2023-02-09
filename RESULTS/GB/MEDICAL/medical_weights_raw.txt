@@ -1,0 +1,33 @@
+FGES
+['HS --> RID [HS <-- RID]:0.0392;[HS --- RID]:0.4314;[HS --> RID]:0.5294;',
+ 'HS --- USE [HS --- USE]:0.4118;[HS --> USE]:0.0392;[HS <-- USE]:0.3922;[no edge]:0.1569;',
+ 'NPHID --> HS [HS --- NPHID]:0.4314;[HS <-- NPHID]:0.5686;',
+ 'BGM_UNK --- HS [BGM_UNK --- HS]:0.0196;[no edge]:0.9804;',
+ 'ULID --> HS [HS <-- ULID]:0.1176;[no edge]:0.8824;',
+ 'MTUMI --> HS [HS <-- MTUMI]:0.0196;[no edge]:0.9804;']
+
+
+GFCI
+['HS o-o USE [HS o-o USE]:1.0000;',
+ 'HS o-o RID [HS o-o RID]:1.0000;',
+ 'HS o-o NPHID [HS o-o NPHID]:1.0000;']
+
+
+RFCI
+con 100 RESAMPLING
+['NPHID o-> HS [HS <-o NPHID]:0.4851;[HS o-o NPHID]:0.1980;[no edge]:0.3168;',
+ 'BGMD o-> HS [BGMD o-> HS]:0.0099;[no edge]:0.9901;',
+ 'HS o-o ULID [HS o-o ULID]:0.0495;[HS --> ULID dd nl]:0.0495;[no edge]:0.9010;',
+ 'BGM_UNK o-> HS [BGM_UNK o-> HS]:0.0594;[no edge]:0.9406;',
+ 'USE o-> HS [HS o-o USE]:0.2475;[HS <-o USE]:0.4158;[no edge]:0.3366;',
+ 'MTUMI o-> HS [HS <-o MTUMI]:0.0297;[no edge]:0.9703;',
+ 'HS o-o RID [HS o-o RID]:0.4752;[HS --> RID dd nl]:0.0891;[HS <-o RID]:0.0297;[no edge]:0.4059;']
+
+
+con 50 resampling
+
+['HS o-o RID [HS --> RID dd nl]:0.1765;[HS o-o RID]:0.2353;[HS <-o RID]:0.0392;[no edge]:0.5490;',
+ 'NPHID o-> HS [HS <-o NPHID]:0.7059;[HS o-o NPHID]:0.0980;[no edge]:0.1961;',
+ 'USE o-> HS [HS o-o USE]:0.1569;[HS <-o USE]:0.7255;[no edge]:0.1176;',
+ 'HS --> ULID [HS --> ULID dd nl]:0.0392;[no edge]:0.9608; dd nl',
+ 'BGMD o-o HS [BGMD o-o HS]:0.0196;[BGMD o-> HS]:0.0196;[no edge]:0.9608;']
