@@ -1,0 +1,10 @@
+
+absolute distance
+EVA
+Average, Best, Worst, Median, Std
+0.41612402874902876, 0.1333333333333333, 0.5724816849816848, 0.4628571428571429, 0.0
+
+relative distance
+EVA
+Average, Best, Worst, Median, Std
+0.0, 0.0, 0.0, 0.0, 0.0

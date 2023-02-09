@@ -1,0 +1,18 @@
+FGES 
+
+['']
+
+
+GFCI
+['']
+
+
+RFCI
+['']
+
+FEW DATA POINTS. ALL considered equally weights = random
+
+
+
+
+
