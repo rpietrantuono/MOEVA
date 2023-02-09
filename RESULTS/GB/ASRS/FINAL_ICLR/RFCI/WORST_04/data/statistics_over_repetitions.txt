@@ -1,0 +1,10 @@
+
+absolute distance
+GB
+Average, Best, Worst, Median, Std
+0.8403747637992757, 0.7181892953789506, 0.9501629072681705, 0.8419807692307693, 0.0
+
+relative distance
+GB
+Average, Best, Worst, Median, Std
+0.6151814189422544, 0.0, 0.8693733609385784, 0.6739215686274511, 0.0
