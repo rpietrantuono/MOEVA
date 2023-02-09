@@ -1,0 +1,889 @@
+Run: 2: Generation 1
+Solution: [61, 7, 6, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 63, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Solution: [63, 62, 8, 61, 7, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 6, 62, 61, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 62, 6, 63, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.11526337197478137: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [62, 6, 7, 61, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 7, 62, 8, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270083: Closest Item: [67]: Intersections: 1
+Solution: [7, 63, 6, 61, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [6, 7, 63, 62, 8, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 2
+Solution: [7, 6, 61, 63, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 63, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 63, 6, 7, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 6, 63, 62, 61, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 3
+Solution: [7, 6, 62, 9, 8, 61, 66]: Size: 7: Type: : Plausibility: -7.392857142857143: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2371655190447137: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 61, 6, 62, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 6, 7, 61, 8, 9, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11618582759522357: Closest Item: [67]: Intersections: 1
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [63, 61, 62, 6, 8, 7, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [62, 6, 61, 7, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 4
+Solution: [61, 6, 7, 62, 68]: Size: 5: Type: : Plausibility: -2.434782608695652: Novelty: 0.75: Min Rel Distance: 0.5: Avg Frequency: 0.138255033557047: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [6, 7, 63, 61, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 61, 7, 62, 63, 6, 3, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.16076876143990237: Closest Item: [67]: Intersections: 1
+Solution: [62, 6, 61, 8, 7, 63, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423693: Closest Item: [67]: Intersections: 1
+Solution: [7, 62, 61, 6, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 62, 61, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 63, 8, 7, 61, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 63, 6, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 5
+Solution: [6, 61, 63, 7, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 62, 63, 8, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 63, 9, 8, 7, 62, 66]: Size: 8: Type: : Plausibility: -7.040816326530612: Novelty: 0.7272727272727273: Min Rel Distance: 0.0: Avg Frequency: 0.20755796217205613: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 6
+Solution: [6, 62, 7, 61, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [62, 61, 6, 7, 63, 8, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [63, 6, 7, 62, 61, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 7
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [63, 61, 7, 6, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 8, 62, 61, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 6, 63, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 63, 6, 61, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 7, 8, 61, 6, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 6, 62, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.236947616142247: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 62, 7, 6, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [4, 62, 63, 7, 8, 61, 6, 67]: Size: 8: Type: : Plausibility: -4.224489795918368: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.12065283709579012: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 8
+Solution: [61, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 8, 62, 7, 6, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 61, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [7, 6, 63, 61, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 63, 7, 61, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 63, 61, 7, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [62, 7, 6, 63, 61, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 8, 62, 61, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 6, 61, 8, 7, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 9
+Solution: [6, 7, 63, 61, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 63, 7, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 63, 62, 7, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 68]: Size: 2: Type: : Plausibility: -0.20289855072463767: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.015558267236119586: Closest Item: [23, 29, 51, 61, 68]: Intersections: 2
+Solution: [6, 7, 62, 61, 8, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270083: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 7, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 7, 6, 8, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270083: Closest Item: [67]: Intersections: 1
+Solution: [62, 6, 61, 7, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 10
+Solution: [62, 61, 63, 8, 7, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 7, 61, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 63, 6, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 63, 61, 7, 68]: Size: 5: Type: : Plausibility: -2.434782608695652: Novelty: 0.75: Min Rel Distance: 0.5: Avg Frequency: 0.138071995118975: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [8, 63, 61, 62, 6, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 63, 6, 62, 8, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 7, 8, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 9, 6, 63, 8, 62, 66]: Size: 8: Type: : Plausibility: -7.040816326530612: Novelty: 0.7272727272727273: Min Rel Distance: 0.0: Avg Frequency: 0.20755796217205613: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 63, 61, 8, 7, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Run: 2: Generation 11
+Solution: [6, 8, 61, 62, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 7, 63, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 8, 61, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.12373398413666872: Closest Item: [67]: Intersections: 1
+Solution: [6, 62, 7, 61, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 63, 6, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [62, 61, 6, 7, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [63, 61, 6, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15106772422208664: Closest Item: [67]: Intersections: 1
+Solution: [6, 62, 61, 7, 68]: Size: 5: Type: : Plausibility: -2.434782608695652: Novelty: 0.75: Min Rel Distance: 0.5: Avg Frequency: 0.138255033557047: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [6, 7, 63, 8, 61, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 12
+Solution: [61, 6, 63, 7, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 63, 61, 8, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.12355094569859673: Closest Item: [67]: Intersections: 1
+Solution: [62, 7, 61, 6, 9, 63, 8, 27, 66]: Size: 9: Type: : Plausibility: -11.705357142857144: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2325605043725849: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 6, 63, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 63, 6, 8, 68]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.09233272320520643: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [62, 61, 7, 63, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 62, 7, 61, 8, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.12456782591010779: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [63, 7, 6, 61, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [7, 6, 61, 63, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 7, 8, 63, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 63, 61, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Run: 2: Generation 13
+Solution: [63, 61, 7, 8, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.06924954240390482: Closest Item: [67]: Intersections: 1
+Solution: [8, 62, 61, 63, 6, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 62, 61, 63, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 7, 63, 8, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 6, 27, 63, 8, 62, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.1556589383770592: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 63, 62, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 14
+Solution: [6, 63, 61, 8, 7, 62, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [62, 8, 6, 61, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 63, 62, 61, 6, 2, 8, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.12336028065893838: Closest Item: [67]: Intersections: 1
+Solution: [63, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [7, 61, 6, 8, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 63, 61, 62, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [63, 61, 6, 7, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 8, 63, 7, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 62, 8, 61, 63, 68]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.7777777777777778: Min Rel Distance: 0.6666666666666667: Avg Frequency: 0.04708155379296319: Closest Item: [1, 7, 28, 68]: Intersections: 2
+Solution: [61, 8, 62, 63, 7, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 8, 7, 67]: Size: 5: Type: : Plausibility: -2.434782608695652: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.16223306894447836: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 15
+Solution: [8, 63, 6, 61, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 9, 8, 63, 62, 66]: Size: 7: Type: : Plausibility: -6.571428571428572: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.20953543101194108: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 61, 62, 6, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 7, 6, 61, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 61, 7, 6, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 7, 61, 6, 62, 9, 66]: Size: 7: Type: : Plausibility: -6.571428571428572: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2291902728144339: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 16
+Solution: [7, 62, 63, 61, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 6, 63, 61, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 7, 8, 62, 28, 61, 68]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7: Min Rel Distance: 0.4: Avg Frequency: 0.12982654928963652: Closest Item: [1, 7, 28, 68]: Intersections: 3
+Solution: [7, 61, 8, 63, 62, 66]: Size: 6: Type: : Plausibility: -6.9: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.19890176937156803: Closest Item: [7, 66]: Intersections: 2
+Solution: [6, 8, 63, 61, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.10316249745779948: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 17
+Solution: [6, 7, 62, 61, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [63, 7, 6, 61, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 6, 61, 62, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 61, 63, 6, 7, 62, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [63, 62, 61, 6, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 8, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.12373398413666872: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 63, 7, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [8, 63, 7, 62, 6, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 7, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 8, 7, 62, 61, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 18
+Solution: [61, 6, 7, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 62, 63, 61, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 63, 8, 62, 7, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 19
+Solution: [6, 61, 62, 7, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 8, 7, 6, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270083: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 62, 63, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 7, 61, 68]: Size: 5: Type: : Plausibility: -2.434782608695652: Novelty: 0.75: Min Rel Distance: 0.5: Avg Frequency: 0.138255033557047: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [7, 6, 61, 62, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [62, 7, 61, 6, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 63, 62, 6, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.10316249745779948: Closest Item: [67]: Intersections: 1
+Solution: [63, 6, 61, 62, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 20
+Solution: [61, 6, 7, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 6, 61, 63, 7, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 63, 6, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 8, 7, 62, 9, 66]: Size: 7: Type: : Plausibility: -7.392857142857143: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2371655190447137: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 8, 7, 62, 61, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 61, 62, 8, 7, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 61, 7, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 8, 7, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 8, 63, 9, 7, 66]: Size: 8: Type: : Plausibility: -7.040816326530612: Novelty: 0.7272727272727273: Min Rel Distance: 0.0: Avg Frequency: 0.20755796217205613: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 21
+Solution: [8, 61, 7, 63, 6, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 61, 62, 7, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.5: Avg Frequency: 0.30669107179174293: Closest Item: [4, 6, 28, 62, 66]: Intersections: 2
+Solution: [61, 63, 62, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 7, 62, 61, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 62, 61, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 7, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 22
+Solution: [6, 7, 63, 61, 9, 62, 8, 66]: Size: 8: Type: : Plausibility: -7.040816326530612: Novelty: 0.7272727272727273: Min Rel Distance: 0.0: Avg Frequency: 0.20755796217205613: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 6, 63, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 63, 61, 7, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 63, 62, 6, 7, 8, 26, 68]: Size: 8: Type: : Plausibility: -2.112244897959184: Novelty: 0.75: Min Rel Distance: 0.5: Avg Frequency: 0.13338926174496643: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [62, 61, 6, 7, 1, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7: Min Rel Distance: 0.4: Avg Frequency: 0.1313300793166565: Closest Item: [1, 6, 61, 66]: Intersections: 3
+Solution: [8, 63, 61, 62, 6, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Run: 2: Generation 23
+Solution: [61, 62, 7, 6, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 7, 61, 63, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 63, 6, 62, 68]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.09233272320520641: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [61, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [62, 6, 61, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [61, 63, 6, 8, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 6, 61, 7, 26, 27, 62, 68]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.5: Avg Frequency: 0.18044539353264186: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [6, 63, 7, 62, 8, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 62, 61, 8, 6, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 24
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 7, 6, 62, 2, 63, 8, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.12336028065893838: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 8, 62, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 8, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 6, 62, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 8, 62, 6, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 61, 6, 8, 7, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 63, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 8, 63, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.10316249745779948: Closest Item: [67]: Intersections: 1
+Solution: [8, 7, 61, 6, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 25
+Solution: [4, 6, 61, 62, 3, 7, 63, 67]: Size: 8: Type: : Plausibility: -5.63265306122449: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.17281879194630873: Closest Item: [67]: Intersections: 1
+Solution: [62, 61, 63, 6, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 7, 62, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 61, 62, 7, 6, 9, 66]: Size: 7: Type: : Plausibility: -6.571428571428572: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2291902728144339: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 6, 63, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 63, 61, 6, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 8, 62, 61, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 26
+Solution: [61, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 61, 7, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 61, 7, 62, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 8, 62, 7, 6, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [6, 62, 61, 63, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 27
+Solution: [6, 62, 61, 63, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [8, 6, 61, 62, 7, 3, 2, 63, 66]: Size: 9: Type: : Plausibility: -12.9375: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2562538133007932: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 6, 62, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 61, 63, 62, 7, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 8, 61, 62, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 7, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 8, 7, 6, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 6, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [61, 63, 6, 62, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 63, 7, 8, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 61, 62, 7, 6, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 6, 7, 63, 62, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 28
+Solution: [7, 8, 61, 6, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 3, 68]: Size: 3: Type: : Plausibility: -0.40579710144927533: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.1681919869839333: Closest Item: [3, 6, 11, 21, 29, 36, 61, 66]: Intersections: 2
+Solution: [6, 7, 61, 63, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15106772422208664: Closest Item: [67]: Intersections: 1
+Solution: [6, 62, 8, 61, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 7, 61, 8, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 62, 61, 7, 6, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 62, 61, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Solution: [7, 6, 63, 61, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 7, 6, 61, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [7, 61, 6, 62, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 7, 63, 6, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 29
+Solution: [63, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [63, 62, 61, 6, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 63, 62, 8, 7, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [7, 8, 62, 6, 63, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 61, 63, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 7, 61, 8, 62, 66]: Size: 6: Type: : Plausibility: -6.9: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.19890176937156803: Closest Item: [7, 66]: Intersections: 2
+Solution: [63, 8, 61, 62, 6, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.10316249745779948: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 30
+Solution: [7, 61, 6, 63, 8, 62, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 8, 6, 7, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.236947616142247: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 7, 61, 62, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 31
+Solution: [7, 61, 62, 6, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 63, 61, 8, 6, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 62, 7, 63, 61, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 62, 7, 8, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270083: Closest Item: [67]: Intersections: 1
+Solution: [6, 63, 62, 61, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 62, 6, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 61, 7, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [7, 6, 62, 61, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [9, 63, 61, 6, 62, 7, 66]: Size: 7: Type: : Plausibility: -6.571428571428572: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2291902728144339: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 62, 61, 7, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 32
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 62, 7, 61, 68]: Size: 5: Type: : Plausibility: -2.434782608695652: Novelty: 0.75: Min Rel Distance: 0.5: Avg Frequency: 0.138255033557047: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [61, 7, 6, 8, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 7, 63, 62, 61, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [62, 6, 63, 61, 7, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [62, 61, 8, 6, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.236947616142247: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 7, 61, 63, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15106772422208664: Closest Item: [67]: Intersections: 1
+Solution: [6, 7, 62, 61, 8, 9, 66]: Size: 7: Type: : Plausibility: -7.392857142857143: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2371655190447137: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 8, 7, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 33
+Solution: [6, 7, 8, 61, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 6, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 8, 7, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 7, 8, 63, 61, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 63, 6, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 9, 63, 8, 7, 67]: Size: 8: Type: : Plausibility: -2.112244897959184: Novelty: 0.8: Min Rel Distance: 0.0: Avg Frequency: 0.10181513117754729: Closest Item: [67]: Intersections: 1
+Solution: [7, 6, 62, 61, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 63, 6, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 8, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 62, 7, 8, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270083: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 34
+Solution: [62, 6, 63, 61, 7, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.11526337197478137: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [6, 7, 63, 62, 61, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 63, 7, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 6, 8, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 35
+Solution: [61, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 61, 7, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [61, 7, 6, 63, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [63, 62, 7, 6, 61, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 7, 61, 63, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 3, 6, 8, 62, 7, 9, 63, 2, 66]: Size: 10: Type: : Plausibility: -11.500000000000002: Novelty: 0.7272727272727273: Min Rel Distance: 0.0: Avg Frequency: 0.23081147040878588: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 36
+Solution: [62, 61, 7, 63, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.058267236119585106: Closest Item: [67]: Intersections: 1
+Solution: [63, 6, 61, 62, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 7, 61, 63, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 62, 61, 8, 6, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 63, 7, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 62, 6, 61, 63, 8, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [8, 62, 7, 6, 63, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 37
+Solution: [6, 61, 8, 7, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 8, 61, 6, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 63, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 62, 61, 8, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 61, 62, 6, 7, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [62, 61, 63, 7, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 63, 6, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 8, 61, 6, 7, 3, 63, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.16076876143990237: Closest Item: [67]: Intersections: 1
+Solution: [61, 7, 63, 6, 68]: Size: 5: Type: : Plausibility: -2.434782608695652: Novelty: 0.75: Min Rel Distance: 0.5: Avg Frequency: 0.138071995118975: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [7, 61, 6, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 38
+Solution: [6, 63, 61, 62, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 61, 63, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 6, 7, 68]: Size: 5: Type: : Plausibility: -2.434782608695652: Novelty: 0.75: Min Rel Distance: 0.5: Avg Frequency: 0.138255033557047: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [61, 62, 6, 7, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 39
+Solution: [63, 8, 61, 6, 7, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 63, 62, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 6, 62, 8, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270083: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 63, 8, 7, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [8, 62, 7, 61, 6, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 7, 61, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [6, 63, 8, 61, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 63, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 8, 61, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 40
+Solution: [63, 6, 61, 62, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [61, 8, 63, 62, 66]: Size: 5: Type: : Plausibility: -4.057971014492753: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.19993898718730935: Closest Item: [61, 66]: Intersections: 2
+Solution: [63, 62, 7, 61, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 7, 62, 6, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [62, 6, 7, 61, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [6, 62, 7, 63, 61, 8, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [7, 62, 63, 8, 61, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 63, 61, 6, 7, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 62, 7, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [62, 6, 63, 7, 61, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 41
+Solution: [63, 7, 6, 61, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 61, 8, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 6, 61, 7, 62, 8, 2, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.12336028065893838: Closest Item: [67]: Intersections: 1
+Solution: [61, 7, 62, 63, 8, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [27, 6, 62, 7, 61, 63, 9, 8, 66]: Size: 9: Type: : Plausibility: -11.705357142857144: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2325605043725849: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 8, 61, 7, 62, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 63, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 63, 8, 6, 7, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 6, 62, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.236947616142247: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 42
+Solution: [7, 6, 63, 61, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15106772422208664: Closest Item: [67]: Intersections: 1
+Solution: [6, 7, 61, 8, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 63, 4, 62, 6, 3, 61, 67]: Size: 8: Type: : Plausibility: -5.63265306122449: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.1728187919463087: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 63, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15106772422208664: Closest Item: [67]: Intersections: 1
+Solution: [61, 8, 63, 7, 6, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 7, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 6, 62, 63, 3, 68]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.16643423690403555: Closest Item: [3, 7, 66]: Intersections: 2
+Solution: [62, 63, 61, 6, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 8, 61, 63, 7, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 61, 8, 67]: Size: 5: Type: : Plausibility: -2.434782608695652: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.16223306894447836: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 43
+Solution: [6, 7, 62, 63, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.1466137888956681: Closest Item: [67]: Intersections: 1
+Solution: [8, 7, 6, 62, 61, 63, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [62, 61, 6, 63, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 6, 63, 27, 7, 62, 68]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.5: Avg Frequency: 0.1475366076876144: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [8, 61, 63, 6, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 62, 63, 61, 7, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [6, 7, 62, 63, 61, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 61, 62, 7, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 7, 63, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 62, 6, 61, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 9, 66]: Size: 3: Type: : Plausibility: -0.40579710144927533: Novelty: 0.7142857142857143: Min Rel Distance: 0.5: Avg Frequency: 0.30719951189749845: Closest Item: [4, 6, 28, 62, 66]: Intersections: 2
+Run: 2: Generation 44
+Solution: [61, 63, 7, 6, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 3, 6, 61, 8, 62, 63, 2, 66]: Size: 9: Type: : Plausibility: -12.9375: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2562538133007932: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 7, 8, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 62, 63, 8, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 62, 7, 61, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 7, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [6, 62, 63, 61, 7, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 45
+Solution: [7, 61, 62, 63, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 7, 62, 6, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 63, 62, 6, 8, 7, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 6, 8, 7, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270086: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 63, 7, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 8, 61, 63, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 7, 6, 3, 8, 68]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.17440948313431534: Closest Item: [3, 7, 66]: Intersections: 2
+Run: 2: Generation 46
+Solution: [7, 61, 6, 8, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 6, 61, 7, 8, 62, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 62, 7, 8, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.12456782591010779: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [61, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 62, 6, 8, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 6, 8, 62, 61, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 6, 7, 61, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 47
+Solution: [7, 62, 6, 61, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 7, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 63, 62, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [7, 62, 61, 8, 6, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 63, 6, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [8, 63, 6, 61, 7, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 62, 6, 61, 8, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.10316249745779948: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 62, 63, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 8, 61, 7, 6, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [8, 61, 6, 62, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 28, 62, 7, 63, 61, 8, 26, 67]: Size: 9: Type: : Plausibility: -6.1607142857142865: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.14371906989356653: Closest Item: [67]: Intersections: 1
+Solution: [61, 8, 6, 7, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.236947616142247: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 48
+Solution: [8, 61, 63, 7, 6, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13524506813097417: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 49
+Solution: [8, 61, 62, 6, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 63, 7, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 7, 63, 8, 6, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 62, 61, 63, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 62, 63, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 62, 63, 6, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 6, 7, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Run: 2: Generation 50
+Solution: [7, 61, 62, 8, 6, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 8, 7, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 6, 61, 7, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 8, 7, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 63, 62, 8, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 62, 61, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 63, 61, 7, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 63, 6, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 6, 7, 61, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 51
+Solution: [63, 61, 62, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Solution: [62, 61, 6, 8, 7, 63, 3, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.1607687614399024: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 6, 63, 8, 7, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [6, 8, 63, 61, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.10316249745779948: Closest Item: [67]: Intersections: 1
+Solution: [62, 61, 6, 7, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 27, 8, 61, 63, 62, 7, 9, 66]: Size: 9: Type: : Plausibility: -11.705357142857144: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2325605043725849: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 7, 63, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 63, 7, 8, 6, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13524506813097417: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 63, 62, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 52
+Solution: [7, 8, 63, 62, 6, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13153345535895872: Closest Item: [67]: Intersections: 1
+Solution: [61, 8, 6, 7, 62, 63, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.1160986664342369: Closest Item: [67]: Intersections: 1
+Solution: [63, 62, 7, 61, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 63, 7, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [9, 61, 6, 62, 7, 63, 66]: Size: 7: Type: : Plausibility: -6.571428571428572: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2291902728144339: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 7, 62, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 53
+Solution: [62, 63, 61, 6, 8, 27, 7, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.15565893837705919: Closest Item: [67]: Intersections: 1
+Solution: [6, 62, 63, 8, 61, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 6, 63, 62, 61, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 61, 8, 9, 7, 66]: Size: 7: Type: : Plausibility: -7.392857142857143: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2371655190447137: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 7, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 6, 8, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 8, 7, 63, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 8, 61, 62, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 54
+Solution: [8, 3, 62, 7, 63, 6, 61, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.16076876143990237: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 7, 62, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [62, 7, 6, 63, 61, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 7, 63, 61, 3, 62, 6, 2, 66]: Size: 9: Type: : Plausibility: -12.9375: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2562538133007932: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 6, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 7, 62, 61, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Run: 2: Generation 55
+Solution: [61, 63, 6, 7, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [6, 62, 61, 7, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 62, 61, 7, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 62, 6, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 8, 62, 66]: Size: 5: Type: : Plausibility: -4.057971014492753: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.19993898718730935: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 61, 62, 63, 7, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 56
+Solution: [6, 3, 63, 7, 61, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.5: Avg Frequency: 0.19396990034573924: Closest Item: [3, 7, 66]: Intersections: 2
+Solution: [61, 63, 62, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 62, 7, 63, 61, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 8, 61, 63, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 62, 61, 7, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [63, 61, 62, 8, 6, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 63, 62, 66]: Size: 5: Type: : Plausibility: -4.057971014492753: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.19993898718730935: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 6, 63, 7, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 57
+Solution: [63, 6, 8, 7, 61, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 6, 62, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 62, 67]: Size: 4: Type: : Plausibility: -0.608695652173913: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.07275777913361806: Closest Item: [67]: Intersections: 1
+Solution: [61, 63, 6, 7, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 6, 61, 7, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 63, 61, 7, 8, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13524506813097417: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 58
+Solution: [61, 63, 62, 8, 6, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 61, 63, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 6, 62, 7, 61, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 7, 6, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [6, 8, 63, 61, 7, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 2, 6, 61, 8, 63, 7, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.12336028065893839: Closest Item: [67]: Intersections: 1
+Solution: [6, 9, 8, 7, 61, 62, 63, 66]: Size: 8: Type: : Plausibility: -7.040816326530612: Novelty: 0.7272727272727273: Min Rel Distance: 0.0: Avg Frequency: 0.20755796217205613: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 7, 6, 61, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 7, 6, 9, 62, 61, 66]: Size: 7: Type: : Plausibility: -6.571428571428572: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2291902728144339: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 62, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [8, 6, 61, 7, 63, 3, 62, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.1607687614399024: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 59
+Solution: [6, 63, 7, 8, 62, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 9, 8, 7, 66]: Size: 7: Type: : Plausibility: -7.392857142857143: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2371655190447137: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 6, 62, 63, 8, 68]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.8: Min Rel Distance: 0.5: Avg Frequency: 0.10681600278915715: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [61, 6, 62, 7, 4, 8, 63, 67]: Size: 8: Type: : Plausibility: -4.224489795918368: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.12065283709579012: Closest Item: [67]: Intersections: 1
+Solution: [62, 61, 6, 63, 7, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [6, 7, 62, 61, 8, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.12456782591010779: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [6, 7, 63, 61, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15106772422208664: Closest Item: [67]: Intersections: 1
+Solution: [7, 61, 62, 63, 8, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 7, 8, 62, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.12456782591010779: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [62, 63, 6, 61, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 62, 61, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Solution: [8, 6, 62, 61, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.12373398413666872: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 60
+Solution: [61, 7, 6, 3, 62, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.5: Avg Frequency: 0.19412243237746593: Closest Item: [3, 7, 66]: Intersections: 2
+Solution: [6, 8, 7, 62, 61, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 68]: Size: 4: Type: : Plausibility: -1.217391304347826: Novelty: 0.7142857142857143: Min Rel Distance: 0.5: Avg Frequency: 0.12438987187309335: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [8, 6, 61, 63, 28, 62, 7, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.12175869432580844: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 7, 8, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 62, 8, 61, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 7, 61, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [62, 7, 6, 8, 63, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 6, 7, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 61
+Solution: [61, 7, 8, 6, 63, 62, 9, 66]: Size: 8: Type: : Plausibility: -7.040816326530612: Novelty: 0.7272727272727273: Min Rel Distance: 0.0: Avg Frequency: 0.20755796217205613: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 6, 62, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.236947616142247: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 62, 8, 63, 7, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 6, 7, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 7, 6, 68]: Size: 5: Type: : Plausibility: -2.434782608695652: Novelty: 0.75: Min Rel Distance: 0.5: Avg Frequency: 0.138255033557047: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [61, 7, 62, 8, 63, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 6, 9, 7, 8, 66]: Size: 7: Type: : Plausibility: -7.392857142857143: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2371655190447137: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 62
+Solution: [61, 6, 62, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [7, 8, 6, 61, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 62, 61, 7, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 62, 63, 61, 7, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 8, 62, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 7, 61, 3, 8, 62, 2, 63, 66]: Size: 9: Type: : Plausibility: -12.9375: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2562538133007932: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 63
+Solution: [61, 63, 6, 7, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 8, 63, 62, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 6, 62, 61, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 8, 62, 61, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.06943258084197682: Closest Item: [67]: Intersections: 1
+Solution: [63, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.5: Avg Frequency: 0.30669107179174293: Closest Item: [4, 6, 28, 62, 66]: Intersections: 2
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 62, 8, 7, 61, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270083: Closest Item: [67]: Intersections: 1
+Solution: [62, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.5: Avg Frequency: 0.30669107179174293: Closest Item: [4, 6, 28, 62, 66]: Intersections: 2
+Solution: [6, 61, 62, 63, 7, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [8, 7, 62, 6, 61, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.12456782591010779: Closest Item: [6, 61, 66]: Intersections: 2
+Run: 2: Generation 64
+Solution: [6, 7, 61, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 7, 8, 9, 63, 66]: Size: 8: Type: : Plausibility: -7.040816326530612: Novelty: 0.7272727272727273: Min Rel Distance: 0.0: Avg Frequency: 0.20755796217205613: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 6, 63, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 7, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 7, 61, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 63, 62, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 65
+Solution: [6, 7, 63, 61, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 3, 63, 6, 7, 2, 62, 67]: Size: 9: Type: : Plausibility: -6.776785714285714: Novelty: 0.7272727272727273: Min Rel Distance: 0.0: Avg Frequency: 0.16226018575011864: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 63, 7, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 63, 7, 61, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 6, 63, 7, 62, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.11526337197478137: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [6, 61, 8, 7, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 6, 63, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 66
+Solution: [63, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [7, 61, 62, 6, 63, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.11526337197478137: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [63, 61, 7, 62, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.05826723611958512: Closest Item: [67]: Intersections: 1
+Solution: [8, 6, 7, 61, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 8, 6, 62, 61, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 7, 6, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 7, 8, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 63, 61, 8, 6, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 6, 63, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 6, 62, 8, 63, 7, 68]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.8: Min Rel Distance: 0.5: Avg Frequency: 0.10681600278915715: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [6, 8, 61, 7, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 63, 8, 6, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 67
+Solution: [6, 8, 61, 62, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 61, 63, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15106772422208664: Closest Item: [67]: Intersections: 1
+Solution: [61, 7, 63, 6, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15106772422208664: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 6, 7, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 8, 63, 6, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 61, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [6, 7, 61, 62, 9, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.1263473662802522: Closest Item: [67]: Intersections: 1
+Solution: [6, 8, 61, 7, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 68
+Solution: [61, 8, 62, 6, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 7, 6, 63, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.1466137888956681: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 63, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Solution: [8, 62, 6, 63, 61, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 63, 6, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 63, 62, 8, 6, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 69
+Solution: [62, 61, 8, 7, 63, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 6, 8, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 63, 6, 61, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 6, 8, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 62, 8, 9, 61, 63, 66]: Size: 8: Type: : Plausibility: -7.040816326530612: Novelty: 0.7272727272727273: Min Rel Distance: 0.0: Avg Frequency: 0.20755796217205613: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 7, 62, 61, 6, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 63, 8, 62, 61, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 70
+Solution: [8, 61, 7, 62, 63, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 63, 7, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 63, 6, 62, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 63, 61, 6, 7, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [8, 6, 63, 61, 7, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 63, 6, 62, 61, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 63, 8, 62, 61, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 6, 63, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 71
+Solution: [61, 7, 62, 8, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.06943258084197682: Closest Item: [67]: Intersections: 1
+Solution: [6, 63, 61, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15106772422208664: Closest Item: [67]: Intersections: 1
+Solution: [61, 7, 62, 6, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [4, 6, 63, 61, 7, 62, 2, 67]: Size: 8: Type: : Plausibility: -5.63265306122449: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.13541031116534474: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 8, 63, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.12355094569859673: Closest Item: [67]: Intersections: 1
+Solution: [8, 6, 63, 61, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 63, 7, 6, 61, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 63, 7, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 68]: Size: 2: Type: : Plausibility: -0.0: Novelty: 0.8333333333333334: Min Rel Distance: 0.6666666666666667: Avg Frequency: 0.003965832824893227: Closest Item: [4, 6, 22, 68]: Intersections: 1
+Solution: [8, 63, 6, 7, 61, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 72
+Solution: [63, 61, 6, 62, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [62, 6, 63, 61, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [62, 6, 61, 63, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 63, 6, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [63, 7, 8, 61, 6, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 8, 7, 62, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270086: Closest Item: [67]: Intersections: 1
+Solution: [6, 63, 8, 62, 61, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 63, 7, 62, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.11526337197478137: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [8, 6, 62, 61, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 63, 6, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 73
+Solution: [7, 63, 61, 6, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 62, 63, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [7, 8, 6, 63, 61, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 62, 63, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 63, 7, 61, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [7, 61, 6, 62, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [62, 6, 61, 8, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 61, 63, 62, 7, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 62, 6, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 63, 62, 6, 61, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [62, 8, 7, 61, 9, 63, 6, 66]: Size: 8: Type: : Plausibility: -7.040816326530612: Novelty: 0.7272727272727273: Min Rel Distance: 0.0: Avg Frequency: 0.20755796217205613: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 7, 6, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 7, 62, 8, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270083: Closest Item: [67]: Intersections: 1
+Solution: [9, 6, 61, 63, 62, 7, 66]: Size: 7: Type: : Plausibility: -6.571428571428572: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2291902728144339: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 74
+Solution: [61, 7, 62, 63, 8, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 63, 6, 7, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.11526337197478137: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [61, 8, 62, 7, 27, 6, 63, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.15565893837705919: Closest Item: [67]: Intersections: 1
+Solution: [6, 7, 8, 61, 63, 62, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [61, 8, 6, 63, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 61, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 63, 8, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 8, 6, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 6, 8, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 68]: Size: 4: Type: : Plausibility: -1.217391304347826: Novelty: 0.7142857142857143: Min Rel Distance: 0.5: Avg Frequency: 0.12438987187309335: Closest Item: [6, 61, 66]: Intersections: 2
+Run: 2: Generation 75
+Solution: [61, 7, 63, 9, 6, 62, 8, 3, 66]: Size: 9: Type: : Plausibility: -9.857142857142858: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23710256931733442: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 61, 7, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 6, 63, 62, 8, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [6, 63, 61, 62, 7, 8, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [61, 7, 6, 63, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [63, 6, 7, 8, 61, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 76
+Solution: [6, 61, 7, 9, 62, 63, 66]: Size: 7: Type: : Plausibility: -6.571428571428572: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2291902728144339: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 63, 62, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 6, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 7, 6, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 61, 62, 63, 6, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 62, 6, 61, 8, 63, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 77
+Solution: [7, 63, 62, 6, 8, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 62, 6, 61, 7, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.11526337197478137: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [7, 62, 63, 6, 61, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 6, 8, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 7, 62, 8, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270083: Closest Item: [67]: Intersections: 1
+Solution: [6, 63, 7, 8, 61, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 78
+Solution: [61, 6, 62, 8, 63, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.10316249745779948: Closest Item: [67]: Intersections: 1
+Solution: [6, 61, 63, 62, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 62, 61, 63, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 6, 8, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 6, 7, 68]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.7142857142857143: Min Rel Distance: 0.5: Avg Frequency: 0.1725137278828554: Closest Item: [6, 61, 66]: Intersections: 2
+Run: 2: Generation 79
+Solution: [63, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 7, 62, 61, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 63, 6, 61, 62, 7, 3, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.16076876143990237: Closest Item: [67]: Intersections: 1
+Solution: [7, 61, 62, 6, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 7, 63, 6, 61, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 6, 8, 63, 68]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.09233272320520643: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [6, 63, 61, 62, 8, 7, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 63, 7, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 80
+Solution: [6, 61, 7, 63, 62, 9, 66]: Size: 7: Type: : Plausibility: -6.571428571428572: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2291902728144339: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.5: Avg Frequency: 0.30669107179174293: Closest Item: [4, 6, 28, 62, 66]: Intersections: 2
+Solution: [61, 8, 63, 7, 62, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 6, 61, 62, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 6, 61, 62, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 81
+Solution: [6, 7, 62, 61, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 8, 6, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 61, 6, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 62, 63, 7, 8, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [6, 8, 62, 7, 63, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 63, 7, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 63, 7, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 63, 3, 61, 6, 62, 4, 67]: Size: 8: Type: : Plausibility: -5.63265306122449: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.17281879194630873: Closest Item: [67]: Intersections: 1
+Solution: [8, 6, 61, 3, 7, 62, 63, 2, 66]: Size: 9: Type: : Plausibility: -12.9375: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2562538133007932: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.5: Avg Frequency: 0.30669107179174293: Closest Item: [4, 6, 28, 62, 66]: Intersections: 2
+Run: 2: Generation 82
+Solution: [61, 7, 6, 63, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [3, 62, 61, 63, 66]: Size: 5: Type: : Plausibility: -4.057971014492753: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.2834045149481391: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 3, 7, 61, 8, 62, 4, 63, 67]: Size: 9: Type: : Plausibility: -6.1607142857142865: Novelty: 0.7272727272727273: Min Rel Distance: 0.0: Avg Frequency: 0.15985356924954242: Closest Item: [67]: Intersections: 1
+Solution: [61, 7, 62, 6, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 8, 9, 61, 6, 62, 66]: Size: 7: Type: : Plausibility: -7.392857142857143: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2371655190447137: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 63, 8, 7, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 61, 62, 4, 63, 8, 67]: Size: 8: Type: : Plausibility: -4.224489795918368: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.12065283709579012: Closest Item: [67]: Intersections: 1
+Solution: [6, 7, 61, 62, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 7, 63, 61, 6, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 63, 6, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 62, 61, 7, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 6, 7, 61, 8, 62, 9, 66]: Size: 8: Type: : Plausibility: -7.040816326530612: Novelty: 0.7272727272727273: Min Rel Distance: 0.0: Avg Frequency: 0.20755796217205613: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 83
+Solution: [6, 61, 62, 8, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 7, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 62, 8, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.12373398413666872: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 61, 63, 62, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 61, 6, 62, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 7, 62, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [63, 61, 6, 7, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 84
+Solution: [61, 63, 8, 6, 62, 68]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.09233272320520643: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [63, 6, 62, 26, 8, 61, 7, 68]: Size: 8: Type: : Plausibility: -2.112244897959184: Novelty: 0.75: Min Rel Distance: 0.5: Avg Frequency: 0.13338926174496643: Closest Item: [6, 61, 66]: Intersections: 2
+Run: 2: Generation 85
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 8, 7, 61, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 62, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [61, 7, 62, 6, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 7, 8, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 62, 7, 6, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270083: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Run: 2: Generation 86
+Solution: [6, 62, 61, 7, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 6, 62, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.236947616142247: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 7, 62, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 63, 6, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 7, 9, 61, 8, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11631656933670356: Closest Item: [67]: Intersections: 1
+Solution: [63, 61, 62, 8, 6, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 6, 62, 63, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 87
+Solution: [62, 7, 63, 9, 61, 6, 66]: Size: 7: Type: : Plausibility: -6.571428571428572: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2291902728144339: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 6, 7, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 7, 8, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31411429733577384: Closest Item: [61, 66]: Intersections: 2
+Run: 2: Generation 88
+Solution: [61, 62, 63, 6, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 6, 63, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 8, 6, 7, 61, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 8, 6, 63, 7, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 61, 62, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 7, 62, 61, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 3, 6, 7, 8, 63, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.1607687614399024: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 89
+Solution: [62, 6, 7, 61, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 7, 62, 6, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 90
+Solution: [63, 6, 62, 61, 7, 8, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 62, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [62, 63, 6, 61, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 7, 2, 6, 63, 61, 8, 68]: Size: 8: Type: : Plausibility: -4.224489795918368: Novelty: 0.7: Min Rel Distance: 0.5: Avg Frequency: 0.11523794996949359: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [61, 6, 7, 62, 63, 8, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [8, 7, 62, 61, 6, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270083: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [8, 61, 62, 7, 6, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 91
+Solution: [6, 63, 61, 7, 62, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 1, 7, 62, 8, 3, 4, 68]: Size: 9: Type: : Plausibility: -3.6964285714285716: Novelty: 0.7272727272727273: Min Rel Distance: 0.4: Avg Frequency: 0.16334485797573045: Closest Item: [4, 6, 22, 68]: Intersections: 3
+Solution: [63, 6, 7, 3, 62, 61, 8, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.16076876143990237: Closest Item: [67]: Intersections: 1
+Solution: [63, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.5: Avg Frequency: 0.30669107179174293: Closest Item: [4, 6, 28, 62, 66]: Intersections: 2
+Solution: [6, 62, 63, 61, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 6, 7, 63, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.11526337197478137: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [8, 61, 7, 6, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 61, 6, 7, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [8, 61, 6, 63, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [63, 62, 7, 61, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 92
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 62, 61, 63, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 62, 63, 7, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 6, 7, 63, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 8, 62, 6, 63, 61, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Run: 2: Generation 93
+Solution: [61, 63, 6, 8, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 61, 7, 62, 63, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 63, 62, 7, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 62, 63, 3, 66]: Size: 5: Type: : Plausibility: -4.057971014492753: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.2834045149481391: Closest Item: [61, 66]: Intersections: 2
+Solution: [61, 62, 6, 63, 67]: Size: 5: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.112568639414277: Closest Item: [67]: Intersections: 1
+Solution: [62, 6, 61, 8, 7, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270086: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 63, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Run: 2: Generation 94
+Solution: [6, 8, 3, 61, 7, 63, 62, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.16076876143990237: Closest Item: [67]: Intersections: 1
+Solution: [7, 6, 8, 61, 62, 63, 67]: Size: 7: Type: : Plausibility: -2.4642857142857144: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.11609866643423691: Closest Item: [67]: Intersections: 1
+Solution: [62, 63, 61, 7, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 8, 7, 61, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 6, 63, 61, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 95
+Solution: [63, 62, 7, 61, 6, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 63, 8, 7, 61, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 7, 6, 8, 61, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 62, 6, 61, 7, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270086: Closest Item: [67]: Intersections: 1
+Solution: [63, 61, 62, 66]: Size: 4: Type: : Plausibility: -1.8260869565217388: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.2358907870652837: Closest Item: [61, 66]: Intersections: 2
+Solution: [6, 63, 7, 8, 61, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 96
+Solution: [61, 6, 62, 7, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [8, 7, 6, 61, 62, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.31441936139922716: Closest Item: [61, 66]: Intersections: 2
+Solution: [7, 61, 62, 6, 63, 9, 66]: Size: 7: Type: : Plausibility: -6.571428571428572: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2291902728144339: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 8, 63, 62, 6, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 61, 6, 8, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Run: 2: Generation 97
+Solution: [62, 61, 6, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [7, 62, 6, 63, 61, 67]: Size: 6: Type: : Plausibility: -1.9714285714285715: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.12609314622737441: Closest Item: [67]: Intersections: 1
+Solution: [7, 6, 61, 9, 62, 63, 67]: Size: 7: Type: : Plausibility: -1.642857142857143: Novelty: 0.7777777777777778: Min Rel Distance: 0.0: Avg Frequency: 0.10834132310642378: Closest Item: [67]: Intersections: 1
+Solution: [7, 62, 6, 61, 8, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 61, 63, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 8, 61, 7, 63, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.12441529387838114: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [61, 8, 62, 6, 7, 3, 63, 67]: Size: 8: Type: : Plausibility: -4.928571428571429: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.1607687614399024: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 98
+Solution: [7, 61, 63, 6, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 8, 61, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 7, 63, 6, 3, 2, 62, 8, 66]: Size: 9: Type: : Plausibility: -12.9375: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2562538133007932: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 8, 7, 63, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 63, 8, 61, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 62, 61, 6, 8, 67]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.75: Min Rel Distance: 0.0: Avg Frequency: 0.13539760016270083: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 99
+Solution: [6, 61, 62, 8, 7, 63, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224705: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Solution: [61, 62, 8, 2, 6, 63, 7, 3, 66]: Size: 9: Type: : Plausibility: -12.9375: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.2562538133007932: Closest Item: [6, 66]: Intersections: 2
+Solution: [7, 6, 62, 61, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1
+Run: 2: Generation 100
+Solution: [63, 61, 7, 6, 62, 8, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [62, 63, 66]: Size: 3: Type: : Plausibility: -0.8115942028985507: Novelty: 0.7142857142857143: Min Rel Distance: 0.5: Avg Frequency: 0.30669107179174293: Closest Item: [4, 6, 28, 62, 66]: Intersections: 2
+Solution: [62, 63, 6, 7, 61, 68]: Size: 6: Type: : Plausibility: -2.9571428571428573: Novelty: 0.7777777777777778: Min Rel Distance: 0.5: Avg Frequency: 0.11526337197478137: Closest Item: [6, 61, 66]: Intersections: 2
+Solution: [6, 61, 7, 63, 8, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 7, 8, 63, 61, 62, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [6, 61, 63, 62, 8, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 8, 63, 6, 62, 7, 66]: Size: 7: Type: : Plausibility: -8.214285714285715: Novelty: 0.7: Min Rel Distance: 0.0: Avg Frequency: 0.23694761614224702: Closest Item: [6, 66]: Intersections: 2
+Solution: [61, 6, 62, 8, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.12373398413666872: Closest Item: [67]: Intersections: 1
+Solution: [61, 6, 62, 7, 67]: Size: 5: Type: : Plausibility: -1.6231884057971013: Novelty: 0.7142857142857143: Min Rel Distance: 0.0: Avg Frequency: 0.15125076266015863: Closest Item: [67]: Intersections: 1

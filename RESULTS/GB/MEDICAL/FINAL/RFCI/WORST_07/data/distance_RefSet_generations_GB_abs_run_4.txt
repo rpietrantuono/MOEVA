@@ -1,0 +1,200 @@
+Run: 4: Generation 1
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 2
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 3
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 4
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 5
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 6
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 7
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 8
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 9
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 10
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 11
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 12
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 13
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 14
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 15
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 16
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 17
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 18
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 19
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 20
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 21
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 22
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 23
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 24
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 25
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 26
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 27
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 28
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 29
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 30
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 31
+Solution: [61, 7, 6, 8, 68]: Size: 5: Type: : Plausibility: -2.5017182130584192: Novelty: 0.7142857142857143: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.1492373398413667: Closest Item: [6, 61, 66]: Intersections: 2
+Run: 4: Generation 32
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 33
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 34
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 35
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 36
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 37
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 38
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 39
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 40
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 41
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 42
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 43
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 44
+Solution: [61, 7, 6, 8, 68]: Size: 5: Type: : Plausibility: -2.5017182130584192: Novelty: 0.7142857142857143: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.1492373398413667: Closest Item: [6, 61, 66]: Intersections: 2
+Run: 4: Generation 45
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 46
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 47
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 48
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 49
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 50
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 51
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 52
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 53
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 54
+Solution: [61, 7, 6, 4, 68]: Size: 5: Type: : Plausibility: -1.6678121420389462: Novelty: 0.7142857142857143: Min Abs Distance: 0.5: Avg Frequency: 0.16851738865161686: Closest Item: [4, 6, 22, 68]: Intersections: 3
+Run: 4: Generation 55
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 56
+Solution: [61, 8, 7, 9, 67]: Size: 5: Type: : Plausibility: -2.5017182130584192: Novelty: 0.7142857142857143: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.06955460646735816: Closest Item: [2, 8, 22, 26, 36, 61, 67]: Intersections: 3
+Run: 4: Generation 57
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 58
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 59
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 60
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 61
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 62
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 63
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 64
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 65
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 66
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 67
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 68
+Solution: [61, 6, 7, 9, 68]: Size: 5: Type: : Plausibility: -1.6678121420389462: Novelty: 0.7142857142857143: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.13837705918242832: Closest Item: [6, 61, 66]: Intersections: 2
+Run: 4: Generation 69
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 70
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 71
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 72
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 73
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 74
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 75
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 76
+Solution: [61, 7, 8, 6, 68]: Size: 5: Type: : Plausibility: -2.5017182130584192: Novelty: 0.7142857142857143: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.1492373398413667: Closest Item: [6, 61, 66]: Intersections: 2
+Run: 4: Generation 77
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 78
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 79
+Solution: [61, 8, 6, 7, 68]: Size: 5: Type: : Plausibility: -2.5017182130584192: Novelty: 0.7142857142857143: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.14923733984136667: Closest Item: [6, 61, 66]: Intersections: 2
+Run: 4: Generation 80
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 81
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 82
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 83
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 84
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 85
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 86
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 87
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 88
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 89
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 90
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 91
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 92
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 93
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 94
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 95
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 96
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 97
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 98
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 99
+Solution: N/A: Size: N/A: Plausibility: N/A: Novelty: N/A: Min Abs Distance: N/A: Avg Frequency: N/A: Closest Item: N/A: Intersections: N/A 
+Run: 4: Generation 100
+Solution: [6, 7, 61, 8, 68]: Size: 5: Type: : Plausibility: -2.5017182130584192: Novelty: 0.7142857142857143: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.1492373398413667: Closest Item: [6, 61, 66]: Intersections: 2
