@@ -3,10 +3,19 @@
 
 This repository contains the material of the following work: 
 
+<<<<<<< HEAD
 "Automated Hypotheses Generation via Evolutionary Abduction", submitted for review to the  The Tenth International Conference on Learning Representations, 2022.
 
 ## Description
 The repository contains the artefacts required to run EVA, the algorithm for evolutionary abduction implemented to solve Combinatorial Causal Optimization Problem (CCOP), as well as to reproduce the results reported in the paper (on four benchmark datasets). The code exploits the jMetal framework (https://github.com/jMetal), a Java framework to develop and experiment evolutionary algorithms. 
+=======
+"An Evolutionary Strategy for Automatic Hypotheses Generation inspired by Abductive Reasoning", submitted for publication. 
+
+The work defines an evolutioanry algorithm to solve a specific class of optimization problems, called Causal Combinatorial Optimization Problems (CCOP), making use of operators that emulate the abductive human reasoning. The algorithm automatically advances hypotheses for potential causes for a given effect, hence allowing to find the most plausible (accoridng to a defined plausibility metric) explanations for a certain event. The application is on 4 case studies (in medial, decision-support system, and safety engineering domains). Results show that the algorithm can predict hypotheses that are equal or very simialr to really-occurred events. 
+
+## Description
+The repository contains the artefacts required to run EVA, the algorithm for evolutionary abduction implemented to solve CCOP, as well as to reproduce the results reported in the paper (on four benchmark datasets). The code exploits the jMetal framework (https://github.com/jMetal), a Java framework to develop and experiment evolutionary algorithms. 
+>>>>>>> 82ad3f930e3fba87f37c35c020ffacf47b470136
 
 The artefacts include: 
 - EVA.jar. The executable JAR file to run the algorithm on a benchmark problem given as input. 
@@ -33,5 +42,12 @@ Note: in order to reproduce the same result of the paper, there are <run.sh> fil
 
 - BENCHMARKS. It contains the four benchmarks problems. For each of them, there is: an instance of the configuration.txt file mentioned above; the dataset (e.g., medical.csv for the first problem); the OntologySource.txt and OntologyTargets.txt files that enumerates the variables and their possible values (in this format: 1:1, 1:2, ...2:1, 2:2, ..., meaning: variable1: value1, variable1:value2). It is also reported a "description" folder that has the original dataset and a description of the attributes, which we used as "variables:values".  
 
+<<<<<<< HEAD
 - RESULTS. It contains the results obtained for the four benchmarks described in the paper. There is one folder for EVA and one for all the baselines called GB. Inside, there is one folder per benchmark problem. Within these, there is a folder FINAL_ICLR, with results of the main paper, obtained in the six configurations (BEST, WORST) x (Novelty constraint = 0.1, 0.4, 0.7). In the EVA folders, you will also find TUNING_ICLR phase (with results of tuning, in which the BEST and WORST configurations have been found (see Appendix of the article)). All the results can be re-obtained (overwriting the existing ones) by simply running the <run.sh> (or tuning.sh for TUNING) scripts within these folders. 
 All the results (for EVA as well as for the four GB and RANDOM strategies adopted) are in the form of text files reporting the distances obtained for each algorithm with respect to the test dataset (*Ref*.txt files) as well as with respect to the knowledge base (*KB*.txt files), for every repetition. Other statistics are available too. 
+=======
+- RESULTS. It contains the results obtained for the four benchmarks described in the paper. There is one folder for EVA and one for all the baselines called GB. Inside, there is one folder per benchmark problem. Within these, there is a folder FINAL, with results of the main paper, obtained in the six configurations (BEST, WORST) x (Novelty constraint = 0.1, 0.4, 0.7). In the EVA folders, you will also find TUNING phase (with results of tuning, in which the BEST and WORST configurations have been found (see Appendix of the article)). All the results can be re-obtained (overwriting the existing ones) by simply running the <run.sh> (or tuning.sh for TUNING) scripts within these folders. 
+All the results (for EVA as well as for the four GB and RANDOM strategies adopted) are in the form of text files reporting the distances obtained for each algorithm with respect to the test dataset (*Ref*.txt files) as well as with respect to the knowledge base (*KB*.txt files), for every repetition. Other statistics are available too. 
+
+Finally, if a MOEA strategy has to be run among those showed in the paper, then refer to the CCOP repository (https://github.com/rpietrantuono/CCOP).
+>>>>>>> 82ad3f930e3fba87f37c35c020ffacf47b470136
