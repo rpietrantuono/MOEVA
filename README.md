@@ -8,6 +8,8 @@ The work proposes an evolutionary algorithm to solve a specific class of optimiz
 ## Description
 The repository contains the artefacts required to run EVA, as well as to reproduce the results reported in the paper. The code exploits  jMetal (https://github.com/jMetal), a Java framework to develop and experiment evolutionary algorithms. 
 
+The repository also contains the **Appendix** (Appendix.pdf) with details about the setting, the algorithms used as baseline, further results in several configurations that are not in the main paper, and a description of the ASRS dataset. 
+
 The artefacts include: 
 - EVA.jar. The executable JAR file to run the algorithm on a benchmark problem given as input. 
 Usage: 
