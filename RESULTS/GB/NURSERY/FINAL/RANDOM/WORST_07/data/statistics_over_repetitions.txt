@@ -1,0 +1,10 @@
+
+absolute distance
+RAN
+Average, Best, Worst, Median, Std
+0.7606488304828789, 0.6066666666666667, 0.8900000000000002, 0.75, 0.0
+
+relative distance
+RAN
+Average, Best, Worst, Median, Std
+0.10502438627553409, 0.0, 0.6666666666666669, 0.0, 0.0
